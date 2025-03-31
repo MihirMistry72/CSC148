@@ -1,0 +1,7 @@
+hypothesis
+pytest
+Pygame
+matplotlib
+numpy
+plotly
+python-ta>=2.7.0
